@@ -3,6 +3,7 @@
 Pertanyaan:
 
 A. Cobalah lakukan pengelompokan pada data 2d:
+
 a. PetalLenght vs Petal witdh 
 b. SepalLenght vs Sepal width
 
